@@ -1,5 +1,5 @@
 # Diario
-A very simple diary app. Just add some descriptions and photos of your days.
+A very simple diary app. Just add some descriptions and photos of your days. Useful during travels. Works great on phones.
 
 Just put everything to a folder on your web site and launch diainst.php.
 
